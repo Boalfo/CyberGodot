@@ -1,2 +1,2 @@
 # CyberGodot
-Godot Game Jam
+Godot Cyberpunk Game Jam
