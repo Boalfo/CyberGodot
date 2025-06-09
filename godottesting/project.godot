@@ -11,8 +11,9 @@ config_version=5
 [application]
 
 config/name="GodotTesting"
-config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.svg"
+run/main_scene="uid://dd3rgjjkc0p7p"
+config/features=PackedStringArray("4.4", "C#", "Forward Plus")
+config/icon="res://Assets/Sprites/icon.svg"
 
 [dotnet]
 
