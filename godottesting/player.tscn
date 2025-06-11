@@ -7,9 +7,9 @@
 size = Vector2(126, 128)
 
 [node name="Player" type="Node2D"]
-script = ExtResource("1_onrkg")
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+script = ExtResource("1_onrkg")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
 position = Vector2(-1, 0)
